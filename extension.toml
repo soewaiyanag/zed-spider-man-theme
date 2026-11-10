@@ -1,0 +1,7 @@
+id = "spider-man"
+name = "Spider-Man"
+version = "0.1.0"
+schema_version = 1
+authors = ["soewaiyanag"]
+description = "A midnight-navy dark theme with Spider-Man red, web-blue and suit-gold accents."
+repository = "https://github.com/soewaiyanag/zed-spider-man"
