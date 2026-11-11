@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Soe Wai Yan Aung"]
 description = "A midnight-navy dark theme with Spider-Man red, web-blue and suit-gold accents."
-repository = "https://github.com/soewaiyanag/zed-spider-man"
+repository = "https://github.com/soewaiyanag/zed-spider-man-theme"
